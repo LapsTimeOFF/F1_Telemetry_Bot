@@ -1,0 +1,24 @@
+{
+  "name": "new_f1_telemetry_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/bot.ts",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "keywords": [],
+  "author": "LapsTime",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.3.0",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.12",
+    "discord.js": "^14.5.0",
+    "dotenv": "^16.0.3",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "eslint": "^8.25.0"
+  }
+}
